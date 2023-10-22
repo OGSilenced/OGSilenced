@@ -4,4 +4,4 @@
 [![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mysql,git,jquery,vscode,md&theme=dark)](https://github.com/OGSilenced)
 <br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OGSilenced)](https://github.com/OGSilenced/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OGSilenced&layout=compact)](https://github.com/OGSilenced/github-readme-stats)
