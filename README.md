@@ -1,5 +1,5 @@
 > ## Discord
-> [![Discord Presence](https://lanyard.cnrad.dev/api/451882867065356291?theme=dark)](https://discord.com/users/451882867065356291)
+> [![Discord Presence](https://lanyard.cnrad.dev/api/451882867065356291?theme=dark&bg=0d1117&text=ffffff&accent=3178c6)](https://discord.com/users/451882867065356291)
 
 > ##  Languages
 > [![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mysql,git,jquery,vscode,md&theme=dark)](https://github.com/OGSilenced)
